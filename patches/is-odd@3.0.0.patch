@@ -1,0 +1,10 @@
+diff --git a/README.md b/README.md
+index 39e6d9b8cb77b0623285c4e3f2e75feef8b03558..bf79543b64b9537758c8fc10473d590129b547d0 100644
+--- a/README.md
++++ b/README.md
+@@ -1,3 +1,5 @@
++# THIS IS A PATCH OF THE README
++
+ # is-odd [![NPM version](https://img.shields.io/npm/v/is-odd.svg?style=flat)](https://www.npmjs.com/package/is-odd) [![NPM monthly downloads](https://img.shields.io/npm/dm/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![NPM total downloads](https://img.shields.io/npm/dt/is-odd.svg?style=flat)](https://npmjs.org/package/is-odd) [![Linux Build Status](https://img.shields.io/travis/jonschlinkert/is-odd.svg?style=flat&label=Travis)](https://travis-ci.org/jonschlinkert/is-odd)
+ 
+ > Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.

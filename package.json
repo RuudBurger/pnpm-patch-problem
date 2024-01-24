@@ -1,0 +1,19 @@
+{
+  "name": "my-main-package",
+  "version": "0.0.1",
+  "packageManager": "pnpm@8.14.1",
+  "private": true,
+  "volta": {
+    "node": "18.18.2",
+    "pnpm": "8.14.1"
+  },
+  "scripts": {},
+  "dependencies": {
+    "is-odd": "3.0.1"
+  },
+  "pnpm": {
+    "patchedDependencies": {
+      "is-odd@3.0.0": "patches/is-odd@3.0.0.patch"
+    }
+  }
+}
